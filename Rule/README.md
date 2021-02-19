@@ -1,2 +1,0 @@
-# SpaceServer / Rule
-ルールまとめ
